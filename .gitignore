@@ -1,0 +1,12 @@
+udf_scanner.cpp
+udf_parser.tab.h
+udf_parser.tab.cpp
+udf
+*.o
+lib*
+user
+.vscode
+.auto
+Makefile
+co-25-fork
+*ok

@@ -1,2 +1,1 @@
-# Comp
-Every thing about Comp course
+UDF compiler (based on CDK).
